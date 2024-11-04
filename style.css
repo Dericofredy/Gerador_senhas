@@ -41,7 +41,7 @@ body {
   }
   #apres-cont{
     font-size: 1.5em;
-    text-align: left;
+    text-align: center;
     background-color: rgb(91, 166, 228);
   }
   #contador {
@@ -75,6 +75,7 @@ body {
     background-color: rgb(238, 234, 28);
     border-radius: 10px
   }
+
   /*Responsividade*/
   
   @media only screen and (max-width: 768px) {
